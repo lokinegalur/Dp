@@ -2,7 +2,7 @@ package practice;
 import java.lang.Math;
 import java.util.Scanner;
 import java.util.Arrays;
-public class test{
+public class FrogJump{
 	  static int[] dp;
 	  static int F(int[] arr,int i){
 	    if(dp[i]==-1){
